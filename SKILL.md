@@ -1,10 +1,9 @@
 ---
 name: iceberg-method
-description: Transform explicit, telling prose into implicit, showing prose by strategically
-  omitting what the writer knows while letting the reader feel it.
+description: Transform explicit, telling prose into implicit, showing prose by strategically omitting what the writer knows while letting the reader feel it.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - iceberg-method
