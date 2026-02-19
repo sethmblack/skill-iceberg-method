@@ -3,8 +3,9 @@ name: iceberg-method
 description: Transform explicit, telling prose into implicit, showing prose by strategically omitting what the writer knows while letting the reader feel it.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4195
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - iceberg-method
 - transformation
